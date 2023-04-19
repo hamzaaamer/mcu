@@ -1,2 +1,2 @@
-# mcu
-watch the marvel movie in order
+# watch the marvel movies in order
+watch the marvel movies in order
